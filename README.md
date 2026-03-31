@@ -11,14 +11,6 @@
  
 ---
 
-## 🛠️ Tech stack
-- **Backend:** .NET, Java, Python  
-- **Frontend:** React (Vite)  
-- **Database:** SQL Server, PostgreSQL 
-- **Tools:** Docker, GitHub Actions  
-
----
-
 ## 🌐 Mijn werk
 - 👉 Portfolio: https://amirshirvani.nl/
 - 👉 Bekijk mijn projecten hieronder 👇  
