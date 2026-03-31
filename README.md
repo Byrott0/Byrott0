@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hallo
 
-<!--
-**Byrott0/Byrott0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer | 📖 momenteel bezig voor BSc
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Over mij
+- 🎓 Bachelor Software Engineering  
+- ⚙️ Ervaring met **C#, ASP.NET Core, Python, React, SQL**
+- 📊 Interesse in **Data & AI**
+ 
+---
+
+## 🛠️ Tech stack
+- **Backend:** .NET, Java, Python  
+- **Frontend:** React (Vite)  
+- **Database:** SQL Server, PostgreSQL 
+- **Tools:** Docker, GitHub Actions  
+
+---
+
+## 🌐 Mijn werk
+- 👉 Portfolio: https://amirshirvani.nl/
+- 👉 Bekijk mijn projecten hieronder 👇  
+
+---
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/amir-shirvani-33bb532b7/ 
