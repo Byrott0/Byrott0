@@ -8,7 +8,7 @@
 - 🎓 Bachelor Software Engineering  
 - ⚙️ Ervaring met **C#, ASP.NET Core, Python, React, SQL, Docker, CI/CD**
 - 📊 Interesse in **Data & AI**
-- 📖 Aan 't leren: Data pipelines & LLM in Python
+- 📖 Aan 't leren: **Data pipelines & LLM** in **Python**
  
 ---
 
