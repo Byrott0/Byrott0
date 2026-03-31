@@ -1,12 +1,12 @@
 # 👋 Hallo
 
-💻 Software Engineer | 🎓 momenteel bezig voor BSc Software Engineering
+💻 Software Engineer 
 
 ---
 
 ## 🧠 Over mij
-- 🎓 Bachelor Software Engineering  
-- ⚙️ Ervaring met **C#, ASP.NET Core, Python, React, SQL, Docker, CI/CD**
+- 🎓 Bachelor Software Engineering (3rde jaars) 
+- ⚙️ Ervaring met **Java, C# .NET Core, Python, React, SQL, Docker, CI/CD**
 - 📊 Interesse in **Data & AI**
 - 📖 Aan 't leren: **Data pipelines & LLM** in **Python**
  
